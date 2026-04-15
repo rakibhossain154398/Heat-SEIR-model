@@ -18,3 +18,13 @@ Temperature-driven SEIR model for heat-related disease dynamics in Dhaka, Bangla
   -Max temperature and surface presssure
   -Max temperature and heat index
   
+### How to Run the Code
+
+This repository contains only Jupyter Notebook (`.ipynb`) files.
+
+### Requirements
+- Python 3.x
+
+### Install Required Packages
+-pip install notebook numpy scipy matplotlib
+-Launch Jupyter notebook and run the files
